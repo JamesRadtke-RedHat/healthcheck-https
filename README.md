@@ -6,3 +6,4 @@ Simple Sinatra Ruby App to spin up to allow something (like an F5) to poll via S
 App.rb  
 Gemfile  
 config.ru  
+test
